@@ -5,7 +5,7 @@
 - 📫 How to reach me   1>linkedin:http://linkedin.com/in/shouvik-ghosh-770a8125a
 -                       2>.website: https://github.com/ShouvikGhosh2
 -                       3>.email: ghoshbinoy485@gmail.com                   
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ...
 
 <!---
